@@ -20,7 +20,7 @@ print("print after athuntication")
 #creat a file to save the collected tweets 
 #If you want to rewrite over the file then keep the parameter 'w' as is 
 #if you want to apppend to a previous file change 'w' to 'a'
-csvFile = open('coffee_Morocco_march22.csv', 'w', encoding="utf8")
+csvFile = open('coffee_Morocco.csv', 'w', encoding="utf8")
 csvWriter = csv.writer(csvFile)
 
 

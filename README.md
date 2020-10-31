@@ -5,10 +5,10 @@ The code crawll's Arabic Tweets from different countries in the Arab world to co
 
 
 Please Cite as: 
-'''
+```
 @inproceedings{ReemArabicDialect,
 author = {Reem Alyami, Rabeah AlZaidy},
-title = {Arabic Dialect Identification in Social Media - IEEE Conference Publication},
+title = {Arabic Dialect Identification in Social Media},
 howpublished = {\url{https://ieeexplore.ieee.org/abstract/document/9096847/metrics#metrics}},
 }
-'''
+```
